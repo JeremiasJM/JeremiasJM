@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo: Jeremias</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React.js - Node.js - SQL - MONGO**
+- 🌱 Actualmente estoy aprendiendo **BackEnd**
 
 - 👨‍💻 Alguos de mis Proyectos [https://github.com/JeremiasJM](https://github.com/JeremiasJM)
 
