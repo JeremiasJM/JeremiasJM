@@ -5,7 +5,7 @@
 
 - 👨‍💻 Alguos de mis Proyectos [https://github.com/JeremiasJM](https://github.com/JeremiasJM)
 
-- 💬 Ask me about **HTML, CSS ,JS**
+- 💬 Ask me about **HTML, CSS ,JS,React.Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
