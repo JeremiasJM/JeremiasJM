@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **BackEnd**
 
-- 👨‍💻 Alguos de mis Proyectos [https://github.com/JeremiasJM](https://github.com/JeremiasJM)
+- 👨‍💻 Alguos de mis Proyectos (https://jeremiasjm.github.io/New-Portfolio/)
 
 - 💬 Ask me about **HTML, CSS ,JS,React.Js**
 
