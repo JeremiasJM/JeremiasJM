@@ -5,7 +5,7 @@
 
 - 👨‍💻 Algunos de mis Proyectos (https://jeremiasjm.github.io/New-Portfolio/)
 
-- 💬 Ask me about **HTML, CSS , JavaScript, React.Js, MongoDB, Express , WebSocket, Node.js , SQL, Hoja de Calculos**
+- 💬 Conocimientos en **HTML, CSS , JavaScript, React.Js, MongoDB, Express , WebSocket, Node.js , SQL, Hoja de Calculos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
