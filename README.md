@@ -7,7 +7,7 @@
 
 - 💬 Conocimientos en **HTML, CSS , JavaScript, React.Js, MongoDB, Express , WebSocket, Node.js , SQL, Hoja de Calculos**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremias-juarez-marrades-a72415244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremias-juarez-marrades-a72415244/" height="30" width="40" /></a>
 </p>
