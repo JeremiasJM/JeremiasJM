@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo: Jeremias</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
-- 🌱 Actualmente estoy aprendiendo **BackEnd**
+- 🌱 Actualmente estoy aprendiendo **Big Data**
 
 - 👨‍💻 Alguos de mis Proyectos (https://jeremiasjm.github.io/New-Portfolio/)
 
-- 💬 Ask me about **HTML, CSS ,JS,React.Js**
+- 💬 Ask me about **HTML, CSS , JavaScript, React.Js, MongoDB, Express , WebSocket, Node.js , SQL, Hoja de Calculos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
