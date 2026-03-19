@@ -34,6 +34,10 @@
 
 ---
 
-### 🌐 Conectemos
+<a href="https://github.com/JeremiasJM" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-JeremiasJM-181717?style=flat&logo=github&logoColor=white" />
+</a>
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/jeremiasjm/)
+<a href="mailto:jeremiasjuarezmarrades15@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-jeremiasjuarezmarrades15-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
